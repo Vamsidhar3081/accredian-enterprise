@@ -1,12 +1,12 @@
 # Accredian Enterprise — Partial Clone
 
-A responsive Next.js 14 recreation of the [Accredian Enterprise](https://enterprise.accredian.com/) website, built as part of a Full Stack Developer Intern assignment.
+A fully responsive Next.js 14 recreation of the Accredian Enterprise landing page, built for the Full Stack Developer Intern assignment.
 
 ## Live Demo
 
 > Deploy to Vercel and paste your URL here.
 
-## Tech Stack
+## Tech Stack 🛠
 
 | Technology | Usage |
 |---|---|
@@ -25,8 +25,8 @@ A responsive Next.js 14 recreation of the [Accredian Enterprise](https://enterpr
 ### Local Development
 
 ```bash
-# 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/accredian-enterprise.git
+# 1. Clone the repo 📌
+git clone https://github.com/Vamsidhar3081/accredian-enterprise
 cd accredian-enterprise
 
 # 2. Install dependencies
@@ -57,7 +57,7 @@ vercel
 
 Or connect your GitHub repo directly at [vercel.com](https://vercel.com).
 
-## Project Structure
+## Project Structure 📂
 
 ```
 accredian-enterprise/
@@ -88,7 +88,7 @@ accredian-enterprise/
 
 ## AI Usage Explanation
 
-**AI (Claude) was used for:**
+**AI (Claude. and Gpt) was used for:**
 - Scaffolding the initial component structure and Tailwind classes
 - Generating the gradient-based hero section layout
 - Writing the useReveal scroll animation hook
@@ -132,3 +132,22 @@ accredian-enterprise/
 7. **Dark mode** — System-preference aware dark theme
 8. **A/B Testing** — CTA copy variants with Vercel Edge Config
 
+## Project Preview
+
+### Hero Section
+![Hero Section](./public/screenshots/hero-section.png)
+
+### Features Section
+![Features Section](./public/screenshots/features-section.png)
+
+### How It Works
+![How It Works](./public/screenshots/how-it-works.png)
+
+### Programs Section
+![Programs Section](./public/screenshots/programs-section.png)
+
+### Testimonials Section
+![Testimonials Section](./public/screenshots/testimonials-section.png)
+
+### Lead Capture Form
+![Lead Capture Form](./public/screenshots/contact-form.png)
