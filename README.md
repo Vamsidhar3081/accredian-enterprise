@@ -4,7 +4,7 @@ A fully responsive Next.js 14 recreation of the Accredian Enterprise landing pag
 
 ## Live Demo
 
-> Deploy to Vercel and paste your URL here.
+https://accredian-enterprise-mv00hk6ua-vamsidhar3081s-projects.vercel.app
 
 ## Tech Stack 🛠
 
